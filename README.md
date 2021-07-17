@@ -1,7 +1,7 @@
 # 10 Days of JavaScript
 
 |  Day  |            Challenge             |                                       Problem                                       | Difficulty | Score |
-| :---: | :------------------------------: | :---------------------------------------------------------------------------------: | :--------: | :---: | :---------------------------------------------------------------------------------------------------------------: |
+| :---: | :------------------------------: | :---------------------------------------------------------------------------------: | :--------: | :---: |
 |   0   |          Hello, World!           |      [Problem](https://www.hackerrank.com/challenges/js10-hello-world/problem)      |    Easy    |  10   |
 |   0   |            Data Types            |      [Problem](https://www.hackerrank.com/challenges/js10-data-types/problem)       |    Easy    |  10   |
 |   1   |       Arithmetic Operators       | [Problem](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem)  |    Easy    |  10   |
